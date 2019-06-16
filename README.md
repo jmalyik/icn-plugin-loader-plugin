@@ -13,8 +13,8 @@ Add to your ICN plugin project's pom:
 ```xml
 <plugin>
 	<groupId>hu.magic.mvn.plugins</groupId>
-	<artifactId>icn-plugin-reloader-maven-plugin</artifactId>
-	<version>1.0</version>
+	<artifactId>icn-plugin-reloader-plugin</artifactId>
+	<version>0.1-SNAPSHOT</version>
 	<executions>
 		<execution>
 			<id>pluginexec</id>
